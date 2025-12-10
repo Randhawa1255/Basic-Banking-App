@@ -28,7 +28,7 @@ This project provides a basic banking system with the ability to create accounts
 
 Below is the full UML diagram representing the structure of the entire banking system:
 
-![UML Diagram](docs/UML.png)
+![UML Diagram](UML.png)
 
 ---
 
