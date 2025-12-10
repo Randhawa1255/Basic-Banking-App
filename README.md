@@ -1,4 +1,5 @@
-# Banking Application (Java Swing) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# Banking Application (Java Swing)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 A simple banking management application built using Java Swing. The program demonstrates essential concepts of object-oriented programming, GUI development, event handling, and file handling.
 
