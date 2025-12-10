@@ -1,16 +1,14 @@
 # Banking Application (Java Swing)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white))
 
 A simple banking management application built using Java Swing. The program demonstrates essential concepts of object-oriented programming, GUI development, event handling, and file handling.
 
----
 
 ## 1. Introduction
 
 This project provides a basic banking system with the ability to create accounts, search for accounts, deposit money, withdraw money, and close accounts. All account data is stored in a file so that information persists even after the program closes.
 
----
 
 ## 2. Features
 
@@ -22,7 +20,6 @@ This project provides a basic banking system with the ability to create accounts
 - File-based data persistence  
 - Clean structure with separate GUI, listener, and logic classes  
 
----
 
 ## 3. UML Diagram
 
@@ -30,7 +27,6 @@ Below is the full UML diagram representing the structure of the entire banking s
 
 ![UML Diagram](UML.png)
 
----
 
 ## 4. System Structure Overview
 
@@ -45,7 +41,6 @@ Below is the full UML diagram representing the structure of the entire banking s
 
 This architecture ensures clean separation of concerns and easier maintainability.
 
----
 
 ## 5. Running the Application
 
@@ -53,7 +48,6 @@ This architecture ensures clean separation of concerns and easier maintainabilit
 2. Ensure JDK (Java 8 or later) is installed.  
 3. Run the main menu class to launch the application.
 
----
 
 ## 6. Conclusion
 
